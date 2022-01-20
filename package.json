@@ -1,7 +1,7 @@
 {
   "name": "scshss",
   "version": "0.1.0",
-  "homepage": "remoroshan.github.io/scshss",
+  "homepage": "https://remoroshan.github.io/scshss",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
