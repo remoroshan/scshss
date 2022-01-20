@@ -1,0 +1,24 @@
+.aluminiBox {
+  background-color: rgb(242, 242, 242);
+  border-radius: 20px;
+  border-style: dashed;
+  border-color: #4e878c;
+}
+
+.aluminiCarousel .carousel-control-next-icon {
+  background-color: #4e878c;
+}
+
+.aluminiCarousel .carousel-control-prev-icon {
+  background-color: #4e878c;
+}
+
+.aluminiCarousel .carousel-control-next {
+  top: auto;
+  bottom: 10px;
+}
+
+.aluminiCarousel .carousel-control-prev {
+  top: auto;
+  bottom: 10px;
+}

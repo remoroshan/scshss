@@ -1,0 +1,35 @@
+.navBar-logo {
+}
+.navBar {
+  background-color: #f5f5f5;
+  width: 100%;
+}
+
+.menuItem {
+  width: 100%;
+  color: #616162;
+  background-color: #f5f5f5;
+  text-decoration: none;
+  border: 0px;
+}
+.menuItem:hover {
+  width: 100%;
+  color: #0d0a46;
+  background-color: #f5f5f5;
+  border: 0px;
+}
+
+.selectedMenuItem {
+  width: 100%;
+  background-color: #0d0a46;
+  color: #ffffff;
+  text-decoration: none;
+  border: 0px;
+}
+.selectedMenuItem :hover {
+  width: 100%;
+  background-color: #0d0a46;
+  color: #ffffff;
+  text-decoration: none;
+  border: 0px;
+}
