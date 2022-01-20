@@ -56,18 +56,17 @@ function Milestone(props) {
   ];
 
   return (
-    <div style={{ height: "100%" }}>
-      <Row className="mx-0 px-3" style={{ height: "100%" }}>
+    <div>
+      <Row className="mx-0 px-3">
         <Col>
           <Carousel
             className="my-3 timelineCarousel"
-            style={{ height: "92%" }}
             interval={null}
             indicators={false}
           >
             {timelineArray.map((milestone, index) => (
-              <Carousel.Item style={{ height: "100%" }}>
-                <div className="timelineBox" style={{ height: "100%" }}>
+              <Carousel.Item>
+                <div className="timelineBox">
                   <div className="mt-3">
                     <img src={cal} style={{ width: "50px" }}></img>{" "}
                     <span style={{ verticalAlign: "middle", fontSize: "20px" }}>

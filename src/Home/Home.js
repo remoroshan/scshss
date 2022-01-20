@@ -1,9 +1,8 @@
 import React from "react";
 import { Carousel } from "react-bootstrap";
 import { Header } from "../Header/Header";
-import { Row, Col, Button } from "react-bootstrap";
+import { Row, Col } from "react-bootstrap";
 import "./styles.css";
-import image1 from "../images/hsb.JPG";
 import image2 from "../images/principal.png";
 import image3 from "../images/hm.png";
 import caro1 from "../images/main.png";
@@ -36,8 +35,7 @@ function Home(props) {
             Announcements:
           </Col>
           <Col xs={12} className="col-md-8 message">
-            {" "}
-            Admissions Open for 2020-21{" "}
+            There will be no offline classes for STD V to IX temporarily.
           </Col>
         </Row>
       </Col>
@@ -73,7 +71,7 @@ function Home(props) {
             </Col>
             <Col xs={12} className="col-md-4   mb-3">
               <Row>
-                <img src={image3} style={{ width: "100%" }}></img>
+                <img src={image2} style={{ width: "100%" }}></img>
               </Row>
               <Row className=" mx-0 my-2" style={{ fontSize: "20px" }}>
                 Message from principal
@@ -94,7 +92,7 @@ function Home(props) {
             </Col>
             <Col xs={12} className="col-md-4  mb-3">
               <Row>
-                <img src={image2} style={{ width: "100%" }}></img>
+                <img src={image3} style={{ width: "100%" }}></img>
               </Row>
               <Row className=" mx-0 my-2" style={{ fontSize: "20px" }}>
                 Message from headmaster
@@ -121,11 +119,11 @@ function Home(props) {
       <Teachers></Teachers>
       <Col>
         <Row className=" px-3 mx-0 my-3 ">
-          <Col xs={12} className="col-md-6">
-            <Milestone></Milestone>
-          </Col>
-          <Col xs={12} className="col-md-6">
+          <Col xs={12} className="col-md-8">
             <Alumini></Alumini>
+          </Col>
+          <Col xs={12} className="col-md-4">
+            <Milestone></Milestone>
           </Col>
         </Row>
       </Col>

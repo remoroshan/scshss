@@ -13,18 +13,16 @@ function Footer(props) {
     <div>
       <Row className="footer py-2 mx-0">
         <Col className="col-12">
-          <Row>
-            {menuArray.map((menuItem, index) => (
-              <Col className="footerItem">
-                <button
+          <Col className="footerItem">
+            {/* <button
                   className="footerItem btn-transperent"
                   onClick={handleChange(menuItem)}
                 >
                   | {menuItem} |
-                </button>
-              </Col>
-            ))}
-          </Row>
+                </button> */}
+            Phone : 0469-2630859 , 0469-2604786
+          </Col>
+          <Col className="footerItem">Email : scshstvla@gmail.com</Col>
         </Col>
       </Row>
     </div>
