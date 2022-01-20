@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/scshss/static/css/main.da436aeb.css",
-    "main.js": "/scshss/static/js/main.7810ad72.js",
-    "static/js/988.16ca6042.chunk.js": "/scshss/static/js/988.16ca6042.chunk.js",
-    "static/media/SGHSS.jpg": "/scshss/static/media/SGHSS.dca043a00c747fe5b963.jpg",
-    "static/media/1.jpg": "/scshss/static/media/1.995a509a6a6208daf1a5.jpg",
-    "static/media/3.jpg": "/scshss/static/media/3.498cc6c6a6d2a422bd98.jpg",
-    "static/media/2.jpg": "/scshss/static/media/2.8382160558f5a235d290.jpg",
-    "static/media/Assembly.jpg": "/scshss/static/media/Assembly.7d989a9bb14f7381b2c4.jpg",
-    "static/media/Jubilee_Building.jpg": "/scshss/static/media/Jubilee_Building.5856682be11aeb826e84.jpg",
-    "static/media/Address.jpg": "/scshss/static/media/Address.cef731bb1053b39fc08a.jpg",
-    "static/media/Salah.jpg": "/scshss/static/media/Salah.cd2c02b5087415ebee1b.jpg",
-    "static/media/Mane.jpg": "/scshss/static/media/Mane.106d3942932ca312b5e1.jpg",
-    "static/media/headline.png": "/scshss/static/media/headline.fd0025fdcc63cb87c3be.png",
-    "static/media/quotes.png": "/scshss/static/media/quotes.d5f06bfb328e4f6fe951.png",
-    "static/media/logo.svg": "/scshss/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/scshss/index.html",
-    "main.da436aeb.css.map": "/scshss/static/css/main.da436aeb.css.map",
-    "main.7810ad72.js.map": "/scshss/static/js/main.7810ad72.js.map",
-    "988.16ca6042.chunk.js.map": "/scshss/static/js/988.16ca6042.chunk.js.map"
+    "main.css": "/static/css/main.da436aeb.css",
+    "main.js": "/static/js/main.80968644.js",
+    "static/js/988.16ca6042.chunk.js": "/static/js/988.16ca6042.chunk.js",
+    "static/media/SGHSS.jpg": "/static/media/SGHSS.dca043a00c747fe5b963.jpg",
+    "static/media/1.jpg": "/static/media/1.995a509a6a6208daf1a5.jpg",
+    "static/media/3.jpg": "/static/media/3.498cc6c6a6d2a422bd98.jpg",
+    "static/media/2.jpg": "/static/media/2.8382160558f5a235d290.jpg",
+    "static/media/Assembly.jpg": "/static/media/Assembly.7d989a9bb14f7381b2c4.jpg",
+    "static/media/Jubilee_Building.jpg": "/static/media/Jubilee_Building.5856682be11aeb826e84.jpg",
+    "static/media/Address.jpg": "/static/media/Address.cef731bb1053b39fc08a.jpg",
+    "static/media/Salah.jpg": "/static/media/Salah.cd2c02b5087415ebee1b.jpg",
+    "static/media/Mane.jpg": "/static/media/Mane.106d3942932ca312b5e1.jpg",
+    "static/media/headline.png": "/static/media/headline.fd0025fdcc63cb87c3be.png",
+    "static/media/quotes.png": "/static/media/quotes.d5f06bfb328e4f6fe951.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.da436aeb.css.map": "/static/css/main.da436aeb.css.map",
+    "main.80968644.js.map": "/static/js/main.80968644.js.map",
+    "988.16ca6042.chunk.js.map": "/static/js/988.16ca6042.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da436aeb.css",
-    "static/js/main.7810ad72.js"
+    "static/js/main.80968644.js"
   ]
 }
