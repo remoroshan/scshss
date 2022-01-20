@@ -3,19 +3,23 @@ import { Carousel } from "react-bootstrap";
 import { Header } from "../Header/Header";
 import { Row, Col, Button } from "react-bootstrap";
 import "./styles.css";
-import image1 from "../images/1.jpg";
-import image2 from "../images/2.jpg";
-import image3 from "../images/3.jpg";
-import caro1 from "../images/Jubilee_Building.jpg";
-import caro2 from "../images/Address.jpg";
-import caro3 from "../images/Assembly.jpg";
-import caro4 from "../images/SGHSS.jpg";
+import image1 from "../images/hsb.JPG";
+import image2 from "../images/principal.png";
+import image3 from "../images/hm.png";
+import caro1 from "../images/main.png";
+import caro2 from "../images/hss.png";
+import caro3 from "../images/green.png";
+import caro4 from "../images/jubily.png";
+import caro5 from "../images/jb.JPG";
+import caro6 from "../images/SGHSS.jpg";
+import about from "../images/about.png";
 import { Footer } from "../Footer/Footer";
 import { Teachers } from "../Teachers/Teachers";
 import { Alumini } from "../Alumini/Alumini";
+import { Milestone } from "../Milestones/Milestones";
 
 function Home(props) {
-  let imgArray = [caro1, caro2, caro3, caro4];
+  let imgArray = [caro1, caro2, caro3, caro4, caro5, caro6];
   return (
     <React.Fragment>
       <Header></Header>
@@ -43,9 +47,9 @@ function Home(props) {
             <Col className="aboutSCS"> About SCS </Col>
           </Row>
           <Row className="px-3 mx-0">
-            <Col xs={12} className="col-md-4">
+            <Col xs={12} className="col-md-4  mb-3">
               <Row>
-                <img src={image1} style={{ width: "100%" }}></img>
+                <img src={about} style={{ width: "100%" }}></img>
               </Row>
               <Row className=" mx-0 my-2" style={{ fontSize: "20px" }}>
                 Know More About The SCS
@@ -67,7 +71,7 @@ function Home(props) {
                 through.
               </Row>
             </Col>
-            <Col xs={12} className="col-md-4">
+            <Col xs={12} className="col-md-4   mb-3">
               <Row>
                 <img src={image3} style={{ width: "100%" }}></img>
               </Row>
@@ -88,7 +92,7 @@ function Home(props) {
                 School Thiruvalla will definitely scrap the sky forever.
               </Row>
             </Col>
-            <Col xs={12} className="col-md-4">
+            <Col xs={12} className="col-md-4  mb-3">
               <Row>
                 <img src={image2} style={{ width: "100%" }}></img>
               </Row>
@@ -117,8 +121,10 @@ function Home(props) {
       <Teachers></Teachers>
       <Col>
         <Row className=" px-3 mx-0 my-3 ">
-          <Col xs={12} className="col-md-6 "></Col>
-          <Col xs={12} className="col-md-6 ">
+          <Col xs={12} className="col-md-6">
+            <Milestone></Milestone>
+          </Col>
+          <Col xs={12} className="col-md-6">
             <Alumini></Alumini>
           </Col>
         </Row>

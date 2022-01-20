@@ -1,0 +1,32 @@
+.timelineBox {
+  background-color: #c8deff;
+  border-radius: 20px;
+  border-style: dashed;
+  border-color: #084298;
+}
+
+.timelineCarousel .carousel-control-next-icon {
+  background-color: #084298;
+}
+.timelineCarousel .carousel-control-prev-icon {
+  background-color: #084298;
+}
+
+.timelineCarousel .carousel-control-next {
+  top: auto;
+  bottom: 10px;
+}
+
+.timelineCarousel .carousel-control-prev {
+  top: auto;
+  bottom: 10px;
+}
+
+.timelineCarousel .carousel-inner {
+  height: 100%;
+}
+
+.timelineYear {
+  font-size: 20px;
+  font-weight: 500;
+}

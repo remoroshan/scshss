@@ -25,3 +25,6 @@
   font-size: 36px;
   text-align: left;
 }
+.borderBottem {
+  border-bottom: 1px solid #4e878c;
+}

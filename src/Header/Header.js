@@ -4,10 +4,9 @@ import { Link } from "react-router-dom";
 import "./styles.css";
 
 function Header(props) {
-  let menuArray = ["HOME", "FACULTY", "ABOUT", "GALLERY"];
+  let menuArray = ["HOME", "FACILITIES", "ABOUT", "GALLERY"];
   var selectedMenuItem = "HOME";
   const handleChange = (menuItem) => {
-    console.log(menuItem);
     selectedMenuItem = menuItem;
   };
   return (
@@ -19,7 +18,7 @@ function Header(props) {
         </Col>
         <Col className="col-3"></Col>
       </Row>
-      <Row className="navBar">
+      {/* <Row className="navBar">
         <Row>
           {menuArray.map((menuItem, index) => (
             <Col
@@ -43,7 +42,7 @@ function Header(props) {
             </Col>
           ))}
         </Row>
-      </Row>
+      </Row> */}
     </div>
   );
 }
