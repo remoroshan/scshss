@@ -1,18 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.1c1995b7.css",
-    "main.js": "/static/js/main.878b48e3.js",
+    "main.js": "/static/js/main.b62b5555.js",
     "static/js/988.16ca6042.chunk.js": "/static/js/988.16ca6042.chunk.js",
-    "static/media/hm.png": "/static/media/hm.411d72f69be157f1a048.png",
-    "static/media/principal.png": "/static/media/principal.3e1d0f5e394a74d8edf3.png",
-    "static/media/about.png": "/static/media/about.02f3c6b904a74934e6e7.png",
     "static/media/hss.png": "/static/media/hss.c9370bf5776ec65e42e1.png",
     "static/media/main.png": "/static/media/main.a7c1512ab4ee8d7b2b39.png",
     "static/media/jubily.png": "/static/media/jubily.be750eae7fe09c375cf1.png",
     "static/media/green.png": "/static/media/green.8bcea1b72c0b360b421c.png",
     "static/media/jb.JPG": "/static/media/jb.05b046f66927bb166f85.JPG",
-    "static/media/hsb.JPG": "/static/media/hsb.891afe62800f669725f4.JPG",
+    "static/media/about.png": "/static/media/about.820953a31caa398388b1.png",
     "static/media/SGHSS.jpg": "/static/media/SGHSS.dca043a00c747fe5b963.jpg",
+    "static/media/hm.png": "/static/media/hm.d61fa250b8d255ace266.png",
+    "static/media/principal.png": "/static/media/principal.f73867382fcb9cb71461.png",
     "static/media/malayattoor.png": "/static/media/malayattoor.e1e586774c2b735dacfe.png",
     "static/media/blessy.png": "/static/media/blessy.39cc702420beb170c76e.png",
     "static/media/kgg.png": "/static/media/kgg.3c0a2093fd5f18607506.png",
@@ -23,11 +22,11 @@
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.1c1995b7.css.map": "/static/css/main.1c1995b7.css.map",
-    "main.878b48e3.js.map": "/static/js/main.878b48e3.js.map",
+    "main.b62b5555.js.map": "/static/js/main.b62b5555.js.map",
     "988.16ca6042.chunk.js.map": "/static/js/988.16ca6042.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c1995b7.css",
-    "static/js/main.878b48e3.js"
+    "static/js/main.b62b5555.js"
   ]
 }
